@@ -1,0 +1,91 @@
+# VitaSense
+
+A mobile application for Real Time Stress monitoring and wellness tracking built with React Native / Expo ecosystem.  
+VitaSense helps users view health metrics, navigate screens, and interact with the core interface.  
+
+---
+
+## 📌 Table of Contents
+
+- [About](#about)  
+- [Features](#features)  
+- [Demo](#demo)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Project Structure](#project-structure)  
+- [Tech Stack](#tech-stack)  
+- [Contributing](#contributing)  
+- [License](#license)
+
+---
+
+## 🌟 About
+
+VitaSense is a frontend application designed to support personal stress and wellness management. It is built using TypeScript and React Native with intuitive screens and navigation.:contentReference[oaicite:1]{index=1}
+
+---
+
+## ✨ Features
+
+✔ Multiple screens for health metrics and user interactions  
+✔ Simple navigation across screens  
+✔ Responsive UI components  
+✔ Modular and scalable project structure  
+✔ Easy to build upon and integrate backend services  
+
+---
+
+## 📸 Demo
+
+*(Add a screenshot or GIF of the app here once available)*
+
+---
+
+## 🛠 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Lasanthagayanpremachandra/VitaSense.git
+   cd VitaSense
+
+# Install dependencies
+   npm install
+   # or
+   yarn
+
+# Start development server
+   npm start
+   # or
+   expo start
+
+# Run on device/emulator
+
+Follow the interactive prompts from the Expo CLI
+
+Scan the QR code with the Expo Go app on your phone
+
+# 📁 Project Structure
+VitaSense/
+├── assets/              # Images, icons, fonts, and other assets
+├── src/
+│   └── screens/         # Individual UI screens
+├── App.tsx              # Entry point
+├── index.ts             
+├── app.json             
+├── package.json         # Dependencies & scripts
+├── tsconfig.json        
+└── .gitignore
+
+# 🧰 Tech Stack
+
+React Native – Cross-platform mobile framework
+
+TypeScript – Static typing for safer code
+
+Expo – Simplified development & build tools
+
+Node.js & npm – Dependency management
+
+# 📄 License
+
+This project is currently unlicensed — consider adding an open-source license (e.g., MIT) to clarify usage rights.
