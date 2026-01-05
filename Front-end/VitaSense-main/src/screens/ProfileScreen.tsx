@@ -16,7 +16,7 @@ export default function ProfileScreen() {
         <TouchableOpacity>
           <Ionicons name="arrow-back" size={24} color="#333" />
         </TouchableOpacity>
-        <Text style={styles.headerTitle}>Profile</Text>
+        <Text style={styles.headerTitle}>Profile photo</Text>
         <TouchableOpacity>
           <Ionicons name="notifications" size={24} color="#4A90E2" />
         </TouchableOpacity>
