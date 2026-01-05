@@ -31,7 +31,7 @@ export default function HomeScreen() {
             style={styles.avatar}
           />
           <View>
-            <Text style={styles.greeting}>Hello, Kavindu!</Text>
+            <Text style={styles.greeting}>Hello, Sandeepa!</Text>
             <View style={styles.locationContainer}>
               <Ionicons name="location" size={14} color="#4A90E2" />
               <Text style={styles.location}>Pitiyandala</Text>
